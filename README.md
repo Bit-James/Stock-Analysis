@@ -3,7 +3,7 @@ Stock analysis involves studying past and current stock price data to identify p
 
 ## Overview
 
-Extraction of stock data was done using data mining and webscrapping. The following insights can be found in this repository;
+Extraction of stock data was done using data mining and webscrapping. The following insights can be found in the repository;
 - Retrieval of historical and real-time stock data (Apple, Tesla, GameStop)
 - Fundamental analysis using financial metrics  
 - Visualization of stock trends and performance over time 
